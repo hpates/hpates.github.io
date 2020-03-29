@@ -11,7 +11,7 @@ title:            Curly Coder
 tagline:          'A Programmer''s Journal'
 description:      'A Programmer''s Journal'
 url:              https://hpates.github.io
-baseurl:          /
+#baseurl:          /
 
 author:
   name:           'Mark Otto'
