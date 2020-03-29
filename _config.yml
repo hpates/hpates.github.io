@@ -1,6 +1,5 @@
 # Dependencies
-#markdown:         redcarpet
-markdown:         kramdown
+markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -12,15 +11,11 @@ title:            Curly Coder
 tagline:          'A Programmer''s Journal'
 description:      'A Programmer''s Journal'
 url:              https://hpates.github.io
-baseurl:          /
+baseurl:          '/hyde/'
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
-
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
 
 paginate:         5
 
