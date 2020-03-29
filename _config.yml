@@ -10,8 +10,8 @@ permalink:        pretty
 title:            Curly Coder
 tagline:          'A Programmer''s Journal'
 description:      'A Programmer''s Journal'
-url:              https://hpates.github.io
-baseurl:          /
+url:              https://hpates.github.io/
+baseurl:          
 
 author:
   name:           'Mark Otto'
