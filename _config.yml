@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Curly Coder
 tagline:          'A Programmer''s Journal'
 description:      'A Programmer''s Journal'
-url:              https://hpates.github.io
+url:              http://hpates.github.io
 baseurl:          '/hyde/'
 
 author:
